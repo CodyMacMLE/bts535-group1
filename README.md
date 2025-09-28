@@ -3,12 +3,12 @@
 <br>
 
 ## Group 1
-| Name               | Github               | email                    |
-|--------------------|----------------------|--------------------------|
-| Afrasiab Amambay   | afrasiabaa           | aamambay@myseneca.ca     |
-| Punya Kalia        | Punya12-34           | pkalia4@myseneca.ca      |
-| Cody Macdonald     | CodyMacMLE           | cmacdonald33@myseneca.ca |
-| Jason Zabawskyj    | TheRedSky1           | jzabawskyj@myseneca.ca   |
+| Name               | Roles                | Github               | email                    |
+|--------------------|----------------------|----------------------|--------------------------|
+| Afrasiab Amambay   | Full-Stack Developer | afrasiabaa           | aamambay@myseneca.ca     |
+| Punya Kalia        | Full-Stack Developer | Punya12-34           | pkalia4@myseneca.ca      |
+| Cody Macdonald     | Full-Stack Developer | CodyMacMLE           | cmacdonald33@myseneca.ca |
+| Jason Zabawskyj    | Full-Stack Developer | TheRedSky1           | jzabawskyj@myseneca.ca   |
 
 <br>
 
