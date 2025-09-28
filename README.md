@@ -19,4 +19,10 @@ Hiking is a popular summer activity amongst the adventurest, nature-loving, exer
 Our web app aims to create a hiking application that allows our users to log their hikes, rate their experiences, and share their feedback to the community. By compiling these logs and ratings, the app will generate ranking recomendations for other users helping them find a trail suited to their skill level and preferences. The app will include but is not limited to categories like: location, distance, elevation, time, difficulty, trail types, conditions, hazards, wildlife, and crowd levels.
 
 ### Technologies
-To implement our project, we will build a simple web appliction using React.js for a front-end interface, express.js for backend server logic and api, and Neon.tec— a SQL database for data storage and retrieval. Together, these technologies will provide a responsive light-weight platform for hikers to log, rank, and explore trails.
+To implement our project, we will build a simple web appliction using React.js for a front-end interface, express.js for backend server logic and api, and Neon.tech a SQL database for data storage and retrieval. Together, these technologies will provide a responsive light-weight platform for hikers to log, rank, and explore trails.
+
+1) Front-End: React.js
+2) Back-End: Node.js & Express.js
+3) Database: Neon.tech (SQL)
+4) Auth: AWS Cognito
+5) Version Control: Git/Github
