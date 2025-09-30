@@ -52,4 +52,5 @@ Consequences will be discussed in a team whether to give a strike to the team me
 - Agreement will be reviewed and updated as needed.
 
 **Acknowledgement**
+
 By following this agreement, each team member supports a productive and collaborative project environment.
