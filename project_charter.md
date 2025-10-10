@@ -48,3 +48,31 @@
 | REQ08  | Users Search and filter trails                                           | DEL06  | Frontend - Home Page (Trail Listing)                           | Frontend Team | pending |
 | REQ09  | Collect and clean rating/review data                                     | DEL05  | Recommendation Service - Collect user ratings and reviews      | Data/AI Team  | pending |
 | REQ10  | Create ML model for recommendations                                      | DEL05  | Recommendation Service - Implement ML Recommendation Algorithm | Data/AI Team  | pending |
+
+## 4. Deliverables
+
+### 4.1 Set up
+
+1. Neon.tech SQL database created, connected with backend, and provides sample trails.
+2. Express.js backend deployed on Vercel.
+3. React.js frontend deployed on Vercel.
+
+### 4.2 Functionality
+
+1. Backend provides RESTful API endpoints for all necessary data such as trails.
+2. All backend and frontend environment variables correctly configured for production.
+3. User can view, filter, and interact with dynamic trail data through the frontend interface.
+4. AWS Cognito setup for secure user authentication on backend, and provides authorization tokens for frontend.
+
+### 4.3 Testing
+
+1. Continuous Integration configured in GitHub for automated build and tests.
+2. Test suites setup implemented for backend and frontend.
+
+### 4.4 Data Model
+
+1. ML Model setup and integrated to provide trail recommendations to user.
+
+### 4.5 Documentation
+
+1. Complete documentation covering API endpoints, database schema, and project deployment steps.
