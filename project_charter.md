@@ -1,8 +1,8 @@
-# [Project Name]
+# HikeSphere
 
 ## 1. Introduction
 
-[Project Name] is a web application designed to enhance the hiking experience by helping users discover trails that match their skills and preferences. Many people face the issue of finding new trails that suit their abilities, interests, and level of difficulty. This project aims to provide a user-friendly platform where hikers can log their experiences, rate trails, and receive recommendations, bringing forth an engaging hiking community.
+HikeSphere is a web application designed to enhance the hiking experience by helping users discover trails that match their skills and preferences. Many people face the issue of finding new trails that suit their abilities, interests, and level of difficulty. This project aims to provide a user-friendly platform where hikers can log their experiences, rate trails, and receive recommendations, bringing forth an engaging hiking community.
 
 *October 8th, 2025*
 
@@ -12,7 +12,7 @@
 
 ## 2. Overview
 
-[Project Name] aims to create a community-driven website for hikers to help with all trail-related problems.
+HikeSphere aims to create a community-driven website for hikers to help with all trail-related problems.
 
 ### 2.1 Objective
 
