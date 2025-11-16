@@ -4,11 +4,11 @@
 
 HikeSphere is a web application designed to enhance the hiking experience by helping users discover trails that match their skills and preferences. Many people face the issue of finding new trails that suit their abilities, interests, and level of difficulty. This project aims to provide a user-friendly platform where hikers can log their experiences, rate trails, and receive recommendations, bringing forth an engaging hiking community.
 
-*October 8th, 2025*
+_October 8th, 2025_
 
-*Current Version: 1.0*
+_Current Version: 1.0_
 
-*Project Manager (and sponsor): (Name)*
+_Project Manager (and sponsor): (Name)_
 
 ## 2. Overview
 
@@ -21,6 +21,7 @@ HikeSphere aims to create a community-driven website for hikers to help with all
 - Build a responsive, smooth, and user-friendly web app.
 
 ## 3. Milestones
+
 1. Database Setup (Neon.tech SQL database with tables for trails and users)
 2. Functional Front-End Interface (React.js pages and navigation)
 3. Tested Back-End Server RESTful API (Express.js endpoints for trails and user data)
@@ -32,12 +33,13 @@ HikeSphere aims to create a community-driven website for hikers to help with all
 9. Tool for identifying trail hazards
 
 ### 3.1 Work Breakdown Structure
+
 ![WBS](assets/wbs.png)
 
 ### 3.2 Requirements Traceability Matrix
 
 | Req ID | Requirement                                                              | Del ID | Deliverable                                                    | Owner         | Status  |
-|--------|--------------------------------------------------------------------------|--------|----------------------------------------------------------------|---------------|---------|
+| ------ | ------------------------------------------------------------------------ | ------ | -------------------------------------------------------------- | ------------- | ------- |
 | REQ01  | Express server to be hosted with production and development environments | DEL01  | Hosting - Configure Express.js server                          | Backend Team  | planned |
 | REQ02  | Database must be hosted and connected to the back end                    | DEL01  | Hosting - Setup Neon.tech DB and Connect to Backend            | Backend Team  | planned |
 | REQ03  | Setup AWS cognito user pool and connect to backend                       | DEL02  | Authentication - Connect backend to cognito user pool          | Backend Team  | planned |
@@ -76,3 +78,7 @@ HikeSphere aims to create a community-driven website for hikers to help with all
 ### 4.5 Documentation
 
 1. Complete documentation covering API endpoints, database schema, and project deployment steps.
+
+## 5. Gantt Chart
+
+![Gantt Chart](assets/gantt%20chart.png)
