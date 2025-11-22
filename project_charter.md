@@ -150,3 +150,9 @@ HikeSphere aims to create a community-driven website for hikers to help with all
 | Total                | $116,428      |
 | Contingency (10%)    | $11,643       |
 | **Grand Total**      | **$128,071**  |
+
+## 7. Organization and Stakeholders
+
+### 7.1 Stakeholders Analysis Matrix
+
+![Stakeholder Analysis Matrix](assets/StakeholderAnalysisMatrix.png)
