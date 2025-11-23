@@ -156,3 +156,7 @@ HikeSphere aims to create a community-driven website for hikers to help with all
 ### 7.1 Stakeholders Analysis Matrix
 
 ![Stakeholder Analysis Matrix](assets/StakeholderAnalysisMatrix.png)
+
+### 7.2 Communications Plan
+
+![Communications Plan](assets/communications%20plan.png)
