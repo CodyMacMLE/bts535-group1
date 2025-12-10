@@ -81,7 +81,7 @@ HikeSphere aims to create a community-driven website for hikers to help with all
 
 ## 5. Gantt Chart
 
-![Gantt Chart](assets/gantt%20chart.png)
+![Gantt Chart](assets/GanttChart-updated.png)
 
 ## 6. Budget
 
@@ -155,7 +155,7 @@ HikeSphere aims to create a community-driven website for hikers to help with all
 
 ### 7.1 Stakeholders Analysis Matrix
 
-![Stakeholder Analysis Matrix](assets/StakeholderAnalysisMatrix.png)
+![Stakeholder Analysis Matrix](assets/StakeholderAnalysisMatrix-updated.png)
 
 ### 7.2 Communications Plan
 
